@@ -1,13 +1,13 @@
 # Emulador-ZxGames-S6
 
-// 		 FILES PREMIUN MU ZXGAMES
-//==============================================
-// Mu Online Season 6 Epi 3
-// Developer: MaxVoll
-// Last review: 14.01.2022
-//==============================================
-// HYSTORY CHANGE UP
-//==============================================
+-> FILES PREMIUN MU ZXGAMES
+==============================================
+Mu Online Season 6 Epi 3
+Developer: MaxVoll
+Last review: 14.01.2022
+==============================================
+ HYSTORY CHANGE UP
+==============================================
 [CHANGELOG UPDATE 1.0]
 - 5 PuglinName Liberados
 - Downgrade Ex700 - Legend
@@ -179,7 +179,8 @@
 - Fix Click right remove dinoran in map icarus
 - Fix Click right Equip uniria in map Atlans
 - Fix Click right Equip dinoran in map Atlans
-//=========================================================== [ZXGAMES UPDATES]
+=========================================================== [ZXGAMES UPDATES]
+
 [ZXGAMES UPDATE 1.0]
 - The DefaultClassInfo system was modified
 - add Button Camera 3D
@@ -198,6 +199,7 @@
 - add Jewels Bank
 - add duel with bet
 - add system multiware npc.
+- 
 [ZXGAMES UPDATE 1.5]
 - add Fix limited zen in trade.
 - add disable cashshop X Downgrade
@@ -215,6 +217,7 @@
 - add disable background menu Esc
 - add disable Battlezone list map
 - add disable button credist and menu select server.
+- 
 [ZXGAMES UPDATE 2.0]
 - Fix pet mount
 - add effects monters
@@ -240,6 +243,7 @@
 - add itemtoolstip
 - new struct custom rank user
 - add musign vip + effect
+- 
 [ZXGAMES UPDATE 2.1]
 - add support socket + joh
 - fix post item disconnect
@@ -247,6 +251,7 @@
 - add Change reset panel
 - add Change Class Panel
 - optimize CustomRankuser
+- 
 [ZXGAMES UPDATE 2.2]
 - add pet hpbar s15
 - add luckywheel panel
@@ -254,6 +259,7 @@
 - fix dup zen store
 - Disable Blocked Mouse in tap map
 - fix damage in 3D
+- 
 [ZXGAMES UPDATE 2.3]
 - add select language in server message
 - change support effect dinamyc to 5000
@@ -262,23 +268,27 @@
 - MuOffhelper PickUp ItemList
 - Fix BP in attack Helper
 - Fix AutoBuff and Healing elf in helper
+- 
 [ZXGAMES UPDATE 3.0]
 - add reset renward
 - add full ruud shop + tooltip options
 - add monster kill count + renward
 - fix button start luckywheel
 - add render skill darkhorse
+- 
 [ZXGAMES UPDATE 3.1] FIX
 - fix monster glow
 - fix monster gold
 - fix close client with effect static
 - add interface create character S13
+- 
 [ZXGAMES UPDATE 3.2]
 - fix buff skill in event
 - fix Combo push
 - fix open time bar in 99/s2/s3/s6
 - Add Monster Kill Coins + Ruud Money
 - New system antiflood
+- 
 [ZXGAMES UPDATE 3.3]
 - Add search store
 - Add Achivement
@@ -286,6 +296,7 @@
 - Fix SetCursorFocus right open C panel
 - add option disable interfaz create character s13
 - Fix dup jewelsbank
+- 
 [ZXGAMES UPDATE 4.0]
 - Add ruud windows move
 - Add disable button ExVault
@@ -305,14 +316,17 @@
 - Delete ranking version louis
 - Add lite antihack in main.dll
 - monster support up to 10000
+- 
 [ZXGAMES UPDATE 4.1]
 - fix pvp miss
 - remove sd option in advanced 97d
 - remove jewels in jewelsbank 97d
 - fix level plus show in panel character
+- 
 [ZXGAMES UPDATE 4.2]
 - fix inv. full jewelbank
 - fix visual level in C panel
+- 
 [ZXGAMES UPDATE 5.0]
 - Add smithy shop
 - Add windows quest
@@ -325,6 +339,7 @@
 - new system hpbar
 - Fix create character interface s13
 - Add new way to earn ruud currency
+- 
 [ZXGAMES UPDATE 6.0]
 - disable radar custom
 - add radar hyper + helper
@@ -342,9 +357,11 @@
 - fix setbled in ruud shop
 - add Reset system panel
 - add Grand Reset system panel
+- 
 [ZXGAMES UPDATE 6.1]
 - fix lag in system
 - fix hide player
+- 
 [ZXGAMES UPDATE 7.0]
 - fix ruud shop buy options
 - fix monster efects
@@ -358,6 +375,7 @@
 - fix windows quest don't need reload
 - fix create character s13 all resolutions
 - pet mount change to pet muun in safe zone
+- 
 [ZXGAMES UPDATE 8.0]
 - fix pet mount problem in change muun safe zone
 - add widescreen
@@ -370,6 +388,7 @@
 - fix gm wing on Blood castle
 - fix Button Crywolf Gatekeeper (Third Quest)
 - change some resolution for wide
+- 
 [ZXGAMES UPDATE 9.0]
 - fix camera cut map in widescreen
 - add Item market
@@ -383,6 +402,7 @@
 - change Notice.txt to xml
 - change Resetable.txt to xml
 - Press Middle Mouse button to add stats quickly
+- 
 [ZXGAMES UPDATE 10.0]
 - add muun inventory
 - add emoji system
